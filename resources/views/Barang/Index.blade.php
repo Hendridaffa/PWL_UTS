@@ -3,7 +3,7 @@
     <div class="row">
         <div class="col-lg-12 margin-tb">
             <div class="pull-left mt-2">
-                <h2>TOKO SERBA ADA</h2>
+                <h2>Indo Marco</h2>
             </div>
             <div class="float-left my-4">
                 <form action="/barang/cari/" method="GET">
