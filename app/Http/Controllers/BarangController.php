@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Barang;
 use Illuminate\Http\Request;
 
-class BarangCOntroller extends Controller
+class BarangController extends Controller
 {
     /**
      * Display a listing of the resource.
